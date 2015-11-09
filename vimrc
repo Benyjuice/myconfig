@@ -1,0 +1,1 @@
+/home/mima001/.vimrc
